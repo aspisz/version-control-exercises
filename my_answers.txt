@@ -3,8 +3,5 @@
 abc
 
 def
-<<<<<<< HEAD
+
 zyx
-=======
-xyz
->>>>>>> d3efb55fb754cf3ae9c3b592ee2d274f428cb8c6
