@@ -4,4 +4,8 @@ abc
 
 def
 
+<<<<<<< HEAD
 zyx
+=======
+xyz
+>>>>>>> 12d7efd422597cbaf015f51e54f4da64cb12e1c7
